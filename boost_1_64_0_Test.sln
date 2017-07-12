@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boost_1_64_0_Test", "boost_1_64_0_Test\boost_1_64_0_Test.vcxproj", "{D0A1AE04-50BC-43DF-8DF5-9F33673C975A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A1AE04-50BC-43DF-8DF5-9F33673C975A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0A1AE04-50BC-43DF-8DF5-9F33673C975A}.Debug|Win32.Build.0 = Debug|Win32
+		{D0A1AE04-50BC-43DF-8DF5-9F33673C975A}.Release|Win32.ActiveCfg = Release|Win32
+		{D0A1AE04-50BC-43DF-8DF5-9F33673C975A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
